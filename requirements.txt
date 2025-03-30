@@ -1,0 +1,13 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Mar 29 22:13:28 2025
+
+@author: Rodrigo
+"""
+""
+requirements.txt
+streamlit
+requests
+pandas
+plotly
+"""
